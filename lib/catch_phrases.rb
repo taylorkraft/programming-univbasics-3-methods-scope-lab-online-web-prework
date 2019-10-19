@@ -8,3 +8,4 @@ def any_phrase
   phrase = "Curiosity killed the cat!"
   puts status
 end
+
