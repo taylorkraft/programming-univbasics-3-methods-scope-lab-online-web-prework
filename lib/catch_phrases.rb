@@ -4,9 +4,16 @@ def mario
 end
 
 def toadstool
-  phrase = "'Thank You Mario! But Our Princess Is In Another Castle!'"
-  puts status
+  phrase = "Thank You Mario! But Our Princess Is In Another Castle!"
+  puts phrase
 end
 
 def link
-  phrase = ""
+  phrase = "It's Dangerous To Go Alone! Take This."
+  puts phrase
+end
+
+def any_ phrase
+  phrase = "Curiosity Killed The Cat!"
+  puts phrase
+end
