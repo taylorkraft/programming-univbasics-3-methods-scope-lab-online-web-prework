@@ -4,8 +4,10 @@ def mario
   puts phrase
 end
 
-def any_phrase
+def toadstool
+  
   phrase = "Curiosity killed the cat!"
+
   puts status
 end
 
