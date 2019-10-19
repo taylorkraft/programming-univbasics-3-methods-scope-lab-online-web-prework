@@ -5,7 +5,7 @@ def mario
 end
 
 def toadstool
-  phrase = 
+  phrase = 'Thank You Mario! But Our Princess Is In Another Castle!'
   phrase = "Curiosity killed the cat!"
 
   puts status
